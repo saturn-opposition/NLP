@@ -22,4 +22,6 @@
 
 7. 基于情感词典的情感分析
 <br>对微博进行情感分析，使用的情感词典在文件夹中。先使用pre.py对文本进行预处理，再使用DictSentiment.py计算情感得分，最后用draw.py画出情感得分分布的饼状图和随时间变化的折线图。
+![情感得分随时间变化的折线图](https://github.com/saturn-opposition/NLP/blob/master/%E5%BE%AE%E5%8D%9A-%E5%9F%BA%E4%BA%8E%E6%83%85%E6%84%9F%E8%AF%8D%E5%85%B8%E7%9A%84%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/%E6%83%85%E6%84%9F%E5%BE%97%E5%88%86%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%9B%BE.png)
 
+![评论情感极性饼图](https://github.com/saturn-opposition/NLP/blob/master/%E5%BE%AE%E5%8D%9A-%E5%9F%BA%E4%BA%8E%E6%83%85%E6%84%9F%E8%AF%8D%E5%85%B8%E7%9A%84%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E6%9E%81%E6%80%A7%E9%A5%BC%E5%9B%BE.png)
